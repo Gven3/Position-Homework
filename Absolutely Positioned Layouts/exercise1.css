@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    position: absolute;
+    padding: 10px;
+    top: 40px;
+    left: 50px;
+    width: 90px;
+    height: 500px;
+    border: 2px yellow solid;
+    border-radius: 8px;
+}
+
+.div2 {
+    left: 170px;
+    border: 2px red solid;
+}
+.div3 {
+    left: 290px;
+    border: 2px blue solid;
+
+}
+.div4 {
+    left: 410px;
+    border: 2px green solid;
+}

@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    width: max-content;
+    border: 2px black solid;
+}
+
+p {
+    background-color: white;
+    margin-top: -9px;
+    width: max-content;
+    border: 2px black solid;
+}

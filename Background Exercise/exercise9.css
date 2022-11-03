@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 1000px;
+    height: 1000px;
+}
+
+.div1 {
+    background: url(./onepiece.jpg) center no-repeat;
+    background-size: contain;
+}
+
+.div2 {
+    background: url(./photo.jpg) center no-repeat;
+    background-size: cover;
+}
